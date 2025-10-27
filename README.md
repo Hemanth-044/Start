@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
-      <img src="https://github.com/user-attachments/assets/471e2baa-8781-43b8-aaed-62e313d03e99" alt="Project Banner">
-    </a>
-  <br />
+  
 
   <div>
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=react&color=3178C6" alt="typescript" />
@@ -80,20 +76,6 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/pitchify.git
-cd pitchify
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
 
 **Set Up Environment Variables**
 
